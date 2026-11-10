@@ -2,7 +2,7 @@
 
   <img src="assets/banner.png" alt="ECOMP - UFSM" width="100%" />
 
-  <br/><br/>
+<br/>
 
   # ECOMP - UFSM · GenAI
   ### **Engenharia de Computação · Universidade Federal de Santa Maria (UFSM) 🇧🇷**
